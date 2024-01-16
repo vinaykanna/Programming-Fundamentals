@@ -1,0 +1,1 @@
+# Dynamic vs Static Typing
